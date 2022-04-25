@@ -135,5 +135,8 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 5. 每个人都会扫上家的码两次，都会两次展示二维码给下家
 
    <b>通过产生的设备ID唯一标识用户，可以识别出发起者</b>
-
-<img src="C:\Users\PC\Documents\Tencent Files\1966069940\FileRecv\Screenshot_20220425_101031_clqwq.press.qrcodecalc.jpg" alt="Screenshot_20220425_101031_clqwq.press.qrcodecalc" style="zoom:25%; float:left;" /><img src="C:\Users\PC\Documents\Tencent Files\1966069940\FileRecv\Screenshot_20220425_101018_clqwq.press.qrcodecalc.jpg" alt="Screenshot_20220425_101031_clqwq.press.qrcodecalc" style="zoom:25%; float:left;" /><img src="C:\Users\PC\Documents\Tencent Files\1966069940\FileRecv\Screenshot_20220424_231415_clqwq.press.qrcodecalc.jpg" alt="Screenshot_20220424_231415_clqwq.press.qrcodecalc" style="zoom:25%; float:left" />
+<a href="https://sm.ms/image/z3QEarUs6p4H5Om" target="_blank"><img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" /></a>
+<a href="https://sm.ms/image/AmPq81Wf724hlv9" target="_blank"><img src="https://s2.loli.net/2022/04/25/AmPq81Wf724hlv9.png" /></a>
+<a href="https://sm.ms/image/FqTMcyerCblIjkR" target="_blank"><img src="https://s2.loli.net/2022/04/25/FqTMcyerCblIjkR.jpg" /></a>
+<a href="https://sm.ms/image/egBX73pwkG5fbKM" target="_blank"><img src="https://s2.loli.net/2022/04/25/egBX73pwkG5fbKM.jpg" /></a>
+<a href="https://sm.ms/image/lLWVXsiYJS1CNP8" target="_blank"><img src="https://s2.loli.net/2022/04/25/lLWVXsiYJS1CNP8.jpg" /></a>
