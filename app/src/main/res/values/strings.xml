@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCodeCalc</string>
+    <string name="scan">传递</string>
+    <string name="generate">生成</string>
+    <string name="sender">传递</string>
+    <string name="init">发起</string>
+</resources>
