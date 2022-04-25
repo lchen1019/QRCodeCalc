@@ -17,7 +17,7 @@
 
 ### 2.1 传递的消息 (JSON格式)
 
-```json
+```js
 message: {
    taskId:         // 唯一表示ID
    currentResult:  // 当前结果
