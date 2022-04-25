@@ -6,7 +6,8 @@
 
 ### 2.1 第一圈
 
-<img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" >
+<a href="https://sm.ms/image/z3QEarUs6p4H5Om" target="_blank"><img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" /></a>
+<a href="https://sm.ms/image/AmPq81Wf724hlv9" target="_blank"><img src="https://s2.loli.net/2022/04/25/AmPq81Wf724hlv9.png" /></a>
 
 ### 2.2 第二圈
 
