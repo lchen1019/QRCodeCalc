@@ -6,7 +6,7 @@
 
 ### 2.1 第一圈
 
-<a href="https://sm.ms/image/z3QEarUs6p4H5Om" target="_blank"><img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" ></a>
+<img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" >
 
 ### 2.2 第二圈
 
