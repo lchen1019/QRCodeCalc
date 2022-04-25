@@ -6,11 +6,12 @@
 
 ### 2.1 第一圈
 
-<img src="https://s2.loli.net/2022/04/25/AmPq81Wf724hlv9.png" />
+
+<a href="https://sm.ms/image/z3QEarUs6p4H5Om" target="_blank"><img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png" /></a>
 
 ### 2.2 第二圈
 
-<img src="D:\software\Microsoft_office\OneDrive\桌面\第二圈.png" alt="第二圈" style="zoom:60%;" />
+<img src="https://s2.loli.net/2022/04/25/AmPq81Wf724hlv9.png" />
 
 ## 2. 代码实现
 
