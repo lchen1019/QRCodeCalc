@@ -135,8 +135,6 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 5. 每个人都会扫上家的码两次，都会两次展示二维码给下家
 
    <b>通过产生的设备ID唯一标识用户，可以识别出发起者</b>
-<img src="https://s2.loli.net/2022/04/25/z3QEarUs6p4H5Om.png;" style="zoom:25%"/>
-<img src="https://s2.loli.net/2022/04/25/AmPq81Wf724hlv9.png" style="width:100px"/>
-<img src="https://s2.loli.net/2022/04/25/FqTMcyerCblIjkR.jpg" />
-<img src="https://s2.loli.net/2022/04/25/egBX73pwkG5fbKM.jpg" />
-<img src="https://s2.loli.net/2022/04/25/lLWVXsiYJS1CNP8.jpg" />
+<img src="https://s2.loli.net/2022/04/25/FqTMcyerCblIjkR.jpg" style="zoom:25%; float:left" />
+<img src="https://s2.loli.net/2022/04/25/egBX73pwkG5fbKM.jpg" style="zoom:25%; float:left" />
+<img src="https://s2.loli.net/2022/04/25/lLWVXsiYJS1CNP8.jpg" style="zoom:25%; float:left" />
